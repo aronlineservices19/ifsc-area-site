@@ -1,24 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home Page -->
   <url>
     <loc>https://aronlineservices19.github.io/ifsc-area-site/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- City Bank IFSC Pages -->
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hyderabad.html</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/sbi/kukatpally-ifsc.html</loc>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/bangalore.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/chennai.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/mumbai.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Hyderabad HDFC -->
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/hyderabad-hdfc-ifsc.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bangalore HDFC -->
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/bangalore-hdfc-ifsc.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Mumbai HDFC -->
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/mumbai-hdfc-ifsc.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Individual HDFC Branch Pages -->
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/kukatpally-ifsc.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/kondapur-ifsc.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/gachibowli-ifsc.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/banjara-hills-ifsc.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://aronlineservices19.github.io/ifsc-area-site/area-code/040.html</loc>
-  </url>
-
-  <url>
-    <loc>https://aronlineservices19.github.io/ifsc-area-site/area-code/044.html</loc>
+    <loc>https://aronlineservices19.github.io/ifsc-area-site/bank-ifsc/hdfc/whitefield-ifsc.html</loc>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
