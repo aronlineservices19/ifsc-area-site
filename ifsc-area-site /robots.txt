@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aronlineservices19.github.io/ifsc-area-site/sitemap.xml
