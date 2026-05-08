@@ -1,0 +1,139 @@
+/* GLOBAL WEBSITE STYLING */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
+    background: #f5f7fb;
+    color: #222;
+}
+
+/* HEADER */
+
+header {
+    background: #0b57d0;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+/* NAVIGATION */
+
+nav {
+    background: #083b91;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* MAIN CONTENT */
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+/* HEADINGS */
+
+h1 {
+    color: #0b57d0;
+    margin-top: 0;
+}
+
+h2 {
+    color: #083b91;
+    margin-top: 30px;
+}
+
+h3 {
+    color: #222;
+}
+
+/* LINKS */
+
+a {
+    color: #0b57d0;
+}
+
+a:hover {
+    color: #083b91;
+}
+
+/* LISTS */
+
+ul {
+    padding-left: 22px;
+}
+
+/* HR */
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 30px 0;
+}
+
+/* FOOTER */
+
+footer {
+    background: #083b91;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    margin-top: 40px;
+}
+
+/* BUTTON STYLE */
+
+.button {
+    display: inline-block;
+    background: #0b57d0;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button:hover {
+    background: #083b91;
+}
+
+/* MOBILE RESPONSIVE */
+
+@media (max-width: 768px) {
+
+    main {
+        margin: 15px;
+        padding: 18px;
+    }
+
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    header h1 {
+        font-size: 26px;
+    }
+}
